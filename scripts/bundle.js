@@ -37,6 +37,7 @@ bundleOne('ini/ini');
 bundleOne('pug/pug');
 bundleOne('java/java');
 bundleOne('javascript/javascript');
+bundleOne('jsx/jsx');
 bundleOne('kotlin/kotlin');
 bundleOne('less/less');
 bundleOne('lua/lua');
